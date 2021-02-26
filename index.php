@@ -3,7 +3,7 @@
 </head>
 <body>
 <p align="center">
-<body background="C:\Users\Angel\OneDrive\Desktop\MANTLE\htmlbackground.png"; background-size: 100%	">
+<body background="htmlbackground.png"; background-size: 100%	">
 <h1 align="center">
 <font face="Arial", color="black", size="10">
 <marquee><u>"TODAY and TOMORROW"</u></marquee>
